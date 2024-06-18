@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Генератор случайных чисел</string>
+    <string name="textView_Generator">Генератор случайных чисел</string>
+    <string name="textView_Method">Методом Макларена-Марсальи</string>
+
+    <string name="textView_Data">Исходные данные</string>
+    <string name="textView_N">Объем выборки:</string>
+    <string name="editText_N">Введите параметр N</string>
+    <string name="textView_A">Размер 1-ой случайной подборки чисел:</string>
+    <string name="editText_A">Введите параметр A</string>
+    <string name="textView_DiagData">Данные диаграммы</string>
+    <string name="textView_K">Кол-во участков разбиения диаграммы:</string>
+    <string name="editText_K">Введите параметр K</string>
+    <string name="textView_Test">Данные тестирования</string>
+    <string name="textView_P">Разделительный элемент:</string>
+    <string name="editText_P">Введите параметр P</string>
+    <string name="textView_T">Значение квантиля распределения:</string>
+    <string name="editText_T">Введите параметр T</string>
+
+    <string name="button_Gen">Генерация</string>
+    <string name="text_EmptyData">Все поля должны быть заполнены!</string>
+    <string name="text_ErN">Проверьте корректность ввода параметра N!</string>
+    <string name="text_ErA">Проверьте корректность ввода параметра A!</string>
+    <string name="text_ErP">Проверьте корректность ввода параметра P!</string>
+    <string name="text_ErT">Параметр T должен соответсвовать таблице значений квантиля стандартного нормального распределения!</string>
+    <string name="text_ErK">Проверьте корректность ввода параметра K!</string>
+    <string name="text_Generation">Генерация…</string>
+    <string name="text_Complete">Генерация завершена</string>
+
+    <string name="textView_Results">Результаты генерации</string>
+    <string name="textView_RN">Последовательность случайных чисел:</string>
+    <string name="editText_RN">Сгенерированная последовательность</string>
+    <string name="textView_MO">Математическое ожидание:</string>
+    <string name="editText_MO">Рузультат расчета</string>
+    <string name="textView_Dis">Дисперсия:</string>
+    <string name="editText_Dis">Рузультат расчета</string>
+
+    <string name="textView_Check">Результаты проверки</string>
+    <string name="textView_Kolmogorov">Критерий Колмогорова:</string>
+    <string name="editText_Kolmogorov">Результат проверки</string>
+    <string name="textView_Zero">Тест длины серий нулей:</string>
+    <string name="editText_Zero">Результат проверки</string>
+    <string name="editText_YesZero">Результат теста: Успешно</string>
+    <string name="editText_NoZero">Результат теста: Неуспешно</string>
+
+    <string name="textView_Diagram">Диаграмма распределения</string>
+</resources>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Random number generator</string>
+    <string name="textView_Generator">Random number generator</string>
+    <string name="textView_Method">McLaren-Marsaglia method</string>
+
+    <string name="textView_Data">Initial data</string>
+    <string name="textView_N">Sample size:</string>
+    <string name="editText_N">Enter parameter N</string>
+    <string name="textView_A">Size of the 1st random sample of numbers:</string>
+    <string name="editText_A">Enter parameter A</string>
+    <string name="textView_DiagData">Diagram data</string>
+    <string name="textView_K">Number of diagram sections:</string>
+    <string name="editText_K">Enter parameter K</string>
+    <string name="textView_Test">Testing data</string>
+    <string name="textView_P">Dividing element:</string>
+    <string name="editText_P">Enter parameter P</string>
+    <string name="textView_T">Distribution quantile value:</string>
+    <string name="editText_T">Enter parameter T</string>
+
+    <string name="button_Gen">Generation</string>
+    <string name="text_EmptyData">All fields must be filled in!</string>
+    <string name="text_ErN">Check that parameter N is entered correctly!</string>
+    <string name="text_ErA">Check that parameter A is entered correctly!</string>
+    <string name="text_ErP">Check that parameter P is entered correctly!</string>
+    <string name="text_ErT">The T parameter must correspond to the table of quantile values of the standard normal distribution!</string>
+    <string name="text_ErK">Check that parameter K is entered correctly!</string>
+    <string name="text_Generation">Generation…</string>
+    <string name="text_Complete">Generation complete</string>
+
+    <string name="textView_Results">Generation results</string>
+    <string name="textView_RN">Sequence of random numbers:</string>
+    <string name="editText_RN">Generated sequence</string>
+    <string name="textView_MO">Expected value:</string>
+    <string name="editText_MO">Calculation result</string>
+    <string name="textView_Dis">Dispersion:</string>
+    <string name="editText_Dis">Calculation result</string>
+
+    <string name="textView_Check">Test results</string>
+    <string name="textView_Kolmogorov">Kolmogorov criterion:</string>
+    <string name="editText_Kolmogorov">Result of checking</string>
+    <string name="textView_Zero">Zero run length test:</string>
+    <string name="editText_Zero">Result of checking</string>
+    <string name="editText_YesZero">Test result: Successful</string>
+    <string name="editText_NoZero">Test result: Failed</string>
+
+    <string name="textView_Diagram">Distribution diagram</string>
+</resources>
